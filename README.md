@@ -18,6 +18,8 @@ If I'm feeling adventurous on a particular day, I might do the problem in C#, Ru
 
 #### APRIL 
 
+- Apart from updating 30 days to Code until Day 20 today ( April 21 2020 ) and adding three new solutions to INOI problems from CodeChef, I'm adding the `PHP` solutions to the basic challenges as well just for fun.
+
 - Started with practicing for INOI using CodeChef. One INOI problem each day cause I'm working simultaneously on my "DomeCode-Learn to Code" website, practicing on Hackerrank's Python Skill and, still getting better at Django and getting better at it. 
 
 - Completed Virtusa Tech Interview Preparation Questions. Will update the repository at once when I complete the 30 Days of Code Challenge.
