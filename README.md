@@ -1,7 +1,8 @@
 # DailyCode 💻
 This repo is for solutions of algorithmic problems from HackerRank. I'll post ( try to ) at least one solution per day.
 
-##### NOTE:  DailyCode and Django-Curated-Resources are the resource modules that would be available in DomeCode, a project created by me to help new coders learn from resources compiled from all over the internet, solve problems in our Remote Code Execution Environment in languages including Python, Java and, C++ initially.
+#### NOTE  
+DailyCode and Django-Curated-Resources are the resource modules that would be available in DomeCode, a project created by me to help new coders learn from resources compiled from all over the internet, solve problems in our Remote Code Execution Environment in languages including Python, Java and, C++ initially.
 
 ### LANGUAGE USED :
 * Python3
