@@ -11,6 +11,8 @@ If I'm feeling adventurous on a particular day, I might do the problem in C#, Ru
 
 ### 30 DAYS OF CODE CHALLENGE : [Solutions](https://github.com/arthtyagi/dailycode/tree/master/30daysofcode)
 
+### [Graph Theory](https://www.python-course.eu/graphs_python.php)
+
 ### Video Solutions : 
 - [Kadane's Algorithm](https://www.youtube.com/watch?v=KXyE-LaVoqI&feature=youtu.be) 
 - [Day 22: Binary Search Tress](https://www.youtube.com/watch?v=UJhrxy52QB0&t=9s)
