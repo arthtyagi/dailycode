@@ -19,6 +19,12 @@ If I'm feeling adventurous on a particular day, I might do the problem in C#, Ru
 
 ### UPDATE(s) ↓  
 
+#### MAY
+ - Mainly focusing in the main DomeCode module but limiting the number of hours since AP CS-A is coming up.
+ 
+ - Going to be posting solutions for 10 days of JS.
+
+
 #### APRIL 
 
 - Apart from updating 30 days to Code until Day 20 today ( April 21 2020 ) and adding three new solutions to INOI problems from CodeChef, I'm adding the `PHP` solutions to the basic challenges as well just for fun.
