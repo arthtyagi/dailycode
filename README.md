@@ -22,7 +22,7 @@ If I'm feeling adventurous on a particular day, I might do the problem in C#, Ru
 #### MAY
  - Mainly focusing in the main DomeCode module but limiting the number of hours since AP CS-A is coming up.
  
- - Going to be posting solutions for 10 days of JS.
+ - Going to be posting solutions for 10 days of JS. I have no idea why though. Just feel like finishing all the challenges, atleast the common ones on HackerRank.
 
 
 #### APRIL 
