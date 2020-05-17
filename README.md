@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arthtyagi/dailycode) 
+
 # DailyCode 💻
 This repo is for solutions of algorithmic problems from HackerRank. I'll post ( try to ) at least one solution per day.
 
